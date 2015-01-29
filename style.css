@@ -28,16 +28,18 @@ h3 {
 section {
 	width:80%;
 	background-color:black;
+	color:white;
 	margin-left:auto;
 	margin-right:auto;
-	border-color:black;
+	border-color:white;
 	border-style:solid;
 	border-width:5px;
 }
 
 body {
 	width:80%;
-	background-color:white;
+	background-color:black;
+	color:white;
 	margin-left:auto;
 	margin-right:auto;
 	border-color:black;
